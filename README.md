@@ -1,6 +1,5 @@
 Project Goal: To create a functional Security Operations Center (SOC) lab environment using cloud services to observe and map real-world attack traffic against a public-facing Honeypot.
-You’ll learn how to design, deploy, and operate a home-lab environment that simulates real-world scenarios.  
-The goal is to give security enthusiasts, students, and IT professionals a safe sandbox to practise detecting and preventing attacks — without needing expensive hardware or overly complex setups.
+You’ll learn how to design, deploy, and operate a home-lab environment that simulates real-world scenarios. The goal is to give security enthusiasts, students, and IT professionals a safe sandbox to practise detecting and preventing attacks, without needing expensive hardware or overly complex setups.
 
 Technology Stack:
 
